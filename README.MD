@@ -1,4 +1,6 @@
 #Ejercicio de ENDES de colaboración en GitHub
-# Colaboradores:
-#	- Diego Hermoso Mourinov
+####Ejercicio realizado por Diego Hermoso
+
+## Colaboradores:
+###	- Diego Hermoso Mourinov
 
